@@ -4,4 +4,4 @@ This simple demo requires a user to login via their Alta account, and then prese
 
 It is built with create-react-app, with a live demo provided by pages.github.com.
 
-See the demo here: https://alta-vr.github.io/Demos-Att-Friend-Manager
+See the demo here: https://alta-vr.github.io/Demos-ATT-Friend-Manager
