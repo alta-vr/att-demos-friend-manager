@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Demos-Att-Friend-Manager/static/css/main.2bb56a74.chunk.css",
+    "main.js": "/Demos-Att-Friend-Manager/static/js/main.67331017.chunk.js",
+    "main.js.map": "/Demos-Att-Friend-Manager/static/js/main.67331017.chunk.js.map",
+    "runtime-main.js": "/Demos-Att-Friend-Manager/static/js/runtime-main.64bd9627.js",
+    "runtime-main.js.map": "/Demos-Att-Friend-Manager/static/js/runtime-main.64bd9627.js.map",
+    "static/js/2.9c8366f7.chunk.js": "/Demos-Att-Friend-Manager/static/js/2.9c8366f7.chunk.js",
+    "static/js/2.9c8366f7.chunk.js.map": "/Demos-Att-Friend-Manager/static/js/2.9c8366f7.chunk.js.map",
+    "static/js/3.57574a5f.chunk.js": "/Demos-Att-Friend-Manager/static/js/3.57574a5f.chunk.js",
+    "static/js/3.57574a5f.chunk.js.map": "/Demos-Att-Friend-Manager/static/js/3.57574a5f.chunk.js.map",
+    "index.html": "/Demos-Att-Friend-Manager/index.html",
+    "static/css/main.2bb56a74.chunk.css.map": "/Demos-Att-Friend-Manager/static/css/main.2bb56a74.chunk.css.map",
+    "static/js/2.9c8366f7.chunk.js.LICENSE.txt": "/Demos-Att-Friend-Manager/static/js/2.9c8366f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64bd9627.js",
+    "static/js/2.9c8366f7.chunk.js",
+    "static/css/main.2bb56a74.chunk.css",
+    "static/js/main.67331017.chunk.js"
+  ]
+}
